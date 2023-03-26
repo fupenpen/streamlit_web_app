@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.title('アプリ')
-st.caption('これはテストアプリです')
+st.caption('これはテストアプリです!')
 
 # 画像
 image = Image.open('Magnemite.png')
